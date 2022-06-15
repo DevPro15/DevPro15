@@ -6,7 +6,7 @@
 - 📫 How to reach me: zairabbas1533@outlook.com
 - ⚡ Hobbies include: Anime, Chess, Call of Duty and Eating
 
-[![Zair15 github stats](https://github-readme-stats.vercel.app/api?username=Zair15)](https://github.com/Zair15/github-readme-stats)
+![Zair's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zair15&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zair15&layout=compact)](https://github.com/Zair15/github-readme-stats)
 
