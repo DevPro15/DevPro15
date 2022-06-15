@@ -1,5 +1,15 @@
+- 🔭 I’m currently working on REACT & REDUX
+- 🌱 I’m currently learning NEM
+- 👯 I’m looking to collaborate on MERN
+- 🤔 I’m looking for help with REACT
+- 💬 Ask me about REACT
+- 📫 How to reach me: zairabbas1533@outlook.com
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
 [<a href="https://app.daily.dev/zair"><img src="https://api.daily.dev/devcards/08549fc4e10842e9a59dba90f9010b29.png?r=e2f" width="400" alt="Zair Abbas's Dev Card"/></a>](https://api.daily.dev/devcards/08549fc4e10842e9a59dba90f9010b29.png?r=e2f)
 
+[![Zair15 github stats](https://github-readme-stats.vercel.app/api?username=Zair15)](https://github.com/Zair15/github-readme-stats)
 <!--
 **Zair15/Zair15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
