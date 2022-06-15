@@ -3,9 +3,7 @@
 
 
 - 🔭 I’m currently working on REACT & REDUX
-- 🌱 I’m currently learning NEM
-- 👯 I’m looking to collaborate on MERN
-- 🤔 I’m looking for help with REACT
+- 🌱 I’m currently learning NODE, EXPRESS, MONGO-DB
 - 💬 Ask me about anything [here](https://github.com/Zair15/Zair15/issues)
 - 📫 How to reach me: zairabbas1533@outlook.com
 - ⚡ Hobbies include: Anime, Chess, Call of Duty and Eating
@@ -20,10 +18,10 @@
 <!-- <code><img height="20" alt="next" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/next/next.png"></code> -->
 <br/>
  <div style="display: flex;">
-  <a href="https://github-readme-stats.vercel.app/">
+  <a href="https://github.com/Zair15">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Zair15&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Zair's github stats" />
 </a> 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/">
+<a href="https://github.com/Zair15">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zair15&layout=compact&theme=buefy&hide_border=true" />
 </a>
 </div>
