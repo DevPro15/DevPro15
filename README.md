@@ -19,16 +19,18 @@
 <br/>
  <div style="display: flex;">
   <a href="https://github.com/Zair15">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Zair15&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Zair's github stats" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Zair15&show_icons=true&theme=radical" alt="Zair's github stats" />
 </a> 
 <a href="https://github.com/Zair15">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zair15&layout=compact&theme=buefy&hide_border=true" />
 </a>
 </div>
 
-![Zair's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zair15&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zair15&layout=compact)
+<!-- ![Zair's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zair15&show_icons=true)
+![Zair's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zair15&show_icons=true&theme=radical)
+https://github-readme-stats.vercel.app/api?username=Zair15&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zair15&layout=compact)](https://github.com/Zair15/github-readme-stats) -->
 <br/>
 
 
