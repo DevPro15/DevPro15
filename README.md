@@ -22,7 +22,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Zair15&show_icons=true&theme=radical" alt="Zair's github stats" />
 </a> 
 <a href="https://github.com/Zair15">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zair15&layout=compact&theme=buefy&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zair15&layout=compact&theme=radical" />
 </a>
 </div>
 
