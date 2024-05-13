@@ -34,7 +34,7 @@ https://github-readme-stats.vercel.app/api?username=DevPro15&show_icons=true&inc
 <br/>
 
 
-[<a href="https://app.daily.dev/zair"><img src="https://api.daily.dev/devcards/08549fc4e10842e9a59dba90f9010b29.png?r=e2f" width="300" alt="Zair Abbas's Dev Card"/></a>](https://api.daily.dev/devcards/08549fc4e10842e9a59dba90f9010b29.png?r=e2f)
+[<a href="https://app.daily.dev/zair"><img src="https://api.daily.dev/devcards/v2/CX4fgwXcDulsECmQI8E1K.png?type=wide&r=ewx" width="652" alt="Zair Abbas's Dev Card"/></a>](https://api.daily.dev/devcards/08549fc4e10842e9a59dba90f9010b29.png?r=e2f)
 
 
 <!--
