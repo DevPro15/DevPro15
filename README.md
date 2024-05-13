@@ -1,10 +1,10 @@
-<p align="center"><a href="https://github.com/Zair15"><img width="80%" alt="Hello, I'm Zair. I do open source!" src="./assets/gh-readme-header 1.png" /></a></p>
+<p align="center"><a href="https://github.com/DevPro15"><img width="80%" alt="Hello, I'm Zair. I do open source!" src="./assets/gh-readme-header 1.png" /></a></p>
 
 
 
-- 🔭 I’m currently working on MERN
-<!-- 🌱 I’m currently learning NODE, EXPRESS, MONGO-DB -->
-- 💬 Ask me about anything [here](https://github.com/Zair15/Zair15/issues)
+- 🔭 I’m currently working on MERN, Next js
+- 🌱 I’m currently learning New algo's
+- 💬 Ask me about anything [here](https://github.com/DevPro15/DevPro15/issues)
 - 📫 How to reach me: zairabbas1533@outlook.com
 - ⚡ Hobbies include: Anime, Chess, and learning
 
@@ -18,19 +18,19 @@
 <!-- <code><img height="20" alt="next" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/next/next.png"></code> -->
 <br/>
  <div style="display: flex;">
-  <a href="https://github.com/Zair15">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Zair15&show_icons=true&theme=radical" alt="Zair's github stats" />
+  <a href="https://github.com/DevPro15">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=DevPro15&show_icons=true&theme=radical" alt="Zair's github stats" />
 </a> 
-<a href="https://github.com/Zair15">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zair15&layout=compact&theme=radical" />
+<a href="https://github.com/DevPro15">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPro15&layout=compact&theme=radical" />
 </a>
 </div>
 
 
-<!-- ![Zair's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zair15&show_icons=true)
-![Zair's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zair15&show_icons=true&theme=radical)
-https://github-readme-stats.vercel.app/api?username=Zair15&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zair15&layout=compact)](https://github.com/Zair15/github-readme-stats) -->
+<!-- ![Zair's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevPro15&show_icons=true)
+![Zair's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevPro15&show_icons=true&theme=radical)
+https://github-readme-stats.vercel.app/api?username=DevPro15&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevPro15&layout=compact)](https://github.com/DevPro15/github-readme-stats) -->
 <br/>
 
 
@@ -38,7 +38,7 @@ https://github-readme-stats.vercel.app/api?username=Zair15&show_icons=true&inclu
 
 
 <!--
-**Zair15/Zair15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DevPro15/DevPro15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
