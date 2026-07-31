@@ -1,51 +1,52 @@
-<p align="center"><a href="https://github.com/DevPro15"><img width="80%" alt="Hello, I'm Zair. I do open source!" src="./assets/gh-readme-header 1.png" /></a></p>
+<!-- ══════════════════════════  BANNER  ══════════════════════════ -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/DevPro15/DevPro15/main/dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevPro15/DevPro15/main/light.svg">
+    <img alt="Zair — Software Engineer" src="https://raw.githubusercontent.com/DevPro15/DevPro15/main/light.svg" width="100%">
+  </picture>
+</p>
 
+<!-- ══════════════════════════  STATS  ══════════════════════════ -->
+<!-- TODO: replace YOUR-INSTANCE with your self-hosted github-readme-stats Vercel URL (see checklist) -->
+<div align="center">
 
+  <img width="100%" src="https://streak-stats.demolab.com/?user=DevPro15&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
 
-- 🔭 I’m currently working on MERN, Next js
-- 🌱 I’m currently learning New algo's
-- 💬 Ask me about anything [here](https://github.com/DevPro15/DevPro15/issues)
-- 📫 How to reach me: zairabbas1533@outlook.com
-- ⚡ Hobbies include: Anime, Chess, and learning
+  <br/>
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="redux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" alt="express" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-<code><img height="20" alt="mongodb" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" alt="laravel" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/laravel/laravel.png"></code>
-<!-- <code><img height="20" alt="next" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/next/next.png"></code> -->
-<br/>
- <div style="display: flex;">
-  <a href="https://github.com/DevPro15">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=DevPro15&show_icons=true&theme=radical" alt="Zair's github stats" />
-</a> 
-<a href="https://github.com/DevPro15">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPro15&layout=compact&theme=radical" />
-</a>
+  <img width="49%" src="https://YOUR-INSTANCE.vercel.app/api?username=DevPro15&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
+  <img width="49%" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=DevPro15&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
+
 </div>
 
-
-<!-- ![Zair's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevPro15&show_icons=true)
-![Zair's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevPro15&show_icons=true&theme=radical)
-https://github-readme-stats.vercel.app/api?username=DevPro15&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevPro15&layout=compact)](https://github.com/DevPro15/github-readme-stats) -->
-<br/>
-
-
-[<a href="https://app.daily.dev/zair"><img src="https://api.daily.dev/devcards/v2/CX4fgwXcDulsECmQI8E1K.png?type=wide&r=ewx" width="652" alt="Zair Abbas's Dev Card"/></a>](https://api.daily.dev/devcards/08549fc4e10842e9a59dba90f9010b29.png?r=e2f)
-
-
+<!-- ══════════════════════════  SNAKE  ══════════════════════════ -->
+<!-- NOTE: uncomment this block only AFTER the snake Action has run green and the `output` branch exists -->
 <!--
-**DevPro15/DevPro15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/DevPro15/DevPro15/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevPro15/DevPro15/output/github-snake.svg" />
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/DevPro15/DevPro15/output/github-snake.svg" />
+  </picture>
+</div>
 -->
+
+<!-- ══════════════════════════  BADGES  ══════════════════════════ -->
+<div align="center">
+
+  <!-- TODO: point this at your real LinkedIn URL -->
+  <a href="https://www.linkedin.com/in/DevPro15/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:zairabbas1533@outlook.com">
+    <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=maildotru&logoColor=10B981&labelColor=0A101F" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <!-- TODO: point this at your portfolio/resume when ready -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=vercel&logoColor=22D3EE&labelColor=0A101F" alt="Portfolio" />
+  </a>
+
+</div>
