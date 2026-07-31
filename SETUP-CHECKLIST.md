@@ -4,6 +4,7 @@ Your new animated profile is assembled. `README.md` has been replaced (old one s
 `README.old.md`). Work through these by-hand steps in order.
 
 ## 1. Files are in place ✅ (done for you)
+
 - `dark.svg` and `light.svg` — the animated banner, at the repo root
 - `assets/stats.svg`, `assets/top-langs.svg`, `assets/streak.svg` — your stats cards (placeholder
   numbers for now; the Action fills real ones on first run)
@@ -15,8 +16,9 @@ Your new animated profile is assembled. `README.md` has been replaced (old one s
 Commit and push all of this to `main`.
 
 ## 2. Stats cards — 100% yours, no forks (~0 min)
-There is **nothing to fork and no Vercel to set up.** The three cards are generated *inside your own
-repo* by `.github/workflows/stats.yml`, which runs `gen_cards.py`, pulls your numbers from the GitHub
+
+There is **nothing to fork and no Vercel to set up.** The three cards are generated _inside your own
+repo_ by `.github/workflows/stats.yml`, which runs `gen_cards.py`, pulls your numbers from the GitHub
 API, and commits refreshed SVGs. It runs daily and on every push, and you can trigger it anytime:
 Actions → **Generate Stats Cards** → Run workflow.
 
@@ -27,8 +29,9 @@ Actions → **Generate Stats Cards** → Run workflow.
 - Tweak colors, rows, or which stats appear by editing `gen_cards.py` (or tell me).
 
 ## 3. Turn on the snake
+
 1. Repo → **Settings → Actions → General → Workflow permissions → Read and write → Save.**
-   (This is the *repo's* settings, not your account settings.)
+   (This is the _repo's_ settings, not your account settings.)
 2. The `snake.yml` push triggers the Action. Check the **Actions** tab — it should go green in
    ~1 min and create an `output` branch.
 3. Once green, **uncomment the SNAKE block** in `README.md` (remove the `<!--` / `-->` around it).
@@ -37,20 +40,24 @@ Actions → **Generate Stats Cards** → Run workflow.
 It regenerates every 12 hours. Force it anytime: Actions → Generate Snake Animation → Run workflow.
 
 ## 4. Fix the placeholders in README.md
-- **LinkedIn** — I guessed `linkedin.com/in/DevPro15`; point it at your real profile.
+
+- **LinkedIn** — I guessed `linkedin.com/in/zair-abbas`; point it at your real profile.
 - **Email** — currently `zairabbas1533@outlook.com` (from your old README). Change if you'd rather
   use another address.
 - **Portfolio** badge — links to `#`; set it when your portfolio is live.
 - Same LinkedIn/portfolio values appear in the banner info panel — tell me and I'll regenerate the SVGs.
 
 ## 5. Cleanup (optional)
+
 Leftover from the old profile, no longer referenced by the README: `devcard.svg`, `devcard.png`,
 `gh-readme-header*.png`, `README.old.md`, and the old icons in `assets/` (`discord*`, `twitter*`,
 `codesandbox*`). Delete whatever you don't want — but **keep** `assets/stats.svg`,
 `assets/top-langs.svg`, and `assets/streak.svg`, they're your new cards.
 
 ---
+
 ### Notes
+
 - Banner regenerates only when I rebuild it — the portrait is baked into the SVGs. The generator
   script and source data are kept so any field, color, or crop can be changed.
 - If a change "doesn't show up," it's almost always CDN cache: open the raw SVG URL with `?v=999`

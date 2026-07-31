@@ -2,7 +2,7 @@ name: Generate Stats Cards
 
 on:
   schedule:
-    - cron: "30 2 * * *"      # daily at 02:30 UTC
+    - cron: "30 2 * * *" # daily at 02:30 UTC
   workflow_dispatch:
   push:
     branches: [main]
@@ -18,7 +18,7 @@ jobs:
 
       - name: Generate cards
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}   # optional: swap for a PAT secret to include private contributions
+          GH_TOKEN: ${{ GH_TOKEN }} # optional: swap for a PAT secret to include private contributions
           GH_USER: ${{ github.repository_owner }}
           OUT_DIR: assets
         run: python3 .github/scripts/gen_cards.py
