@@ -22,7 +22,7 @@
 
 <!-- ══════════════════════════  SNAKE  ══════════════════════════ -->
 <!-- NOTE: uncomment this block only AFTER the snake Action has run green and the `output` branch exists -->
-<!--
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/DevPro15/DevPro15/output/github-snake-dark.svg" />
@@ -30,7 +30,6 @@
     <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/DevPro15/DevPro15/output/github-snake.svg" />
   </picture>
 </div>
--->
 
 <!-- ══════════════════════════  BADGES  ══════════════════════════ -->
 <div align="center">
